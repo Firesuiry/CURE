@@ -1,0 +1,157 @@
+--------------------
+rnd:1
+action:open the top drawer
+scene:a cup
+task:open the top drawer
+--------------------
+rnd:1
+action:open the top drawer
+scene:a cup
+task:open the top drawer
+success:0.9742825627326965
+amb:0.16654086112976074
+rnd_loss_fn:0.01515500620007515
+--------------------
+rnd:1
+action:open the top drawer
+scene:a cup
+task:open the top drawer
+success:0.9742825627326965
+amb:0.16654086112976074
+rnd_loss_fn:0.01515500620007515
+confidence:0.8617728464305401
+--------------------
+rnd:30
+action:pick-up hamburger to user
+scene:a glass bottle, a spoon, and a hamburger
+task:give me a hamburger.
+success:0.9815588593482971
+amb:0.442314475774765
+rnd_loss_fn:0.6457069516181946
+confidence:0.07535725831985474
+--------------------
+rnd:30
+action:pick-up hamburger to bottom drawer
+scene:a glass bottle, a spoon, and a hamburger
+task:give me a hamburger.
+success:0.9653556942939758
+amb:0.42392903566360474
+rnd_loss_fn:0.5482601188123226
+confidence:0.17155012860894203
+--------------------
+rnd:30
+action:put the hamburger in the microwave to heat
+scene:a glass bottle, a spoon, and a hamburger
+task:put the hamburger in the microwave to heat.
+success:0.8968154191970825
+amb:0.2496417611837387
+rnd_loss_fn:0.4885415732860565
+confidence:0.27394428849220276
+--------------------
+rnd:1
+action:open the top drawer
+scene:a cup
+task:open the top drawer
+success:0.9742825627326965
+amb:0.16654086112976074
+rnd_loss_fn:0.01515500620007515
+confidence:0.8617728464305401
+--------------------
+rnd:30
+action:pick-up hamburger to user
+scene:a glass bottle, a spoon, and a hamburger
+task:give me a hamburger.
+success:0.9815588593482971
+amb:0.442314475774765
+rnd_loss_fn:0.6457069516181946
+confidence:0.07535725831985474
+--------------------
+rnd:30
+action:pick-up hamburger to bottom drawer
+scene:a glass bottle, a spoon, and a hamburger
+task:give me a hamburger.
+success:0.9653556942939758
+amb:0.42392903566360474
+rnd_loss_fn:0.5482601188123226
+confidence:0.17155012860894203
+--------------------
+rnd:30
+action:pick-up hamburger to microwave
+scene:a glass bottle, a spoon, and a hamburger
+task:put the hamburger in the microwave to heat.
+success:0.8768192529678345
+amb:0.186003640294075
+rnd_loss_fn:0.5213539302349091
+confidence:0.25761035084724426
+--------------------
+rnd:1
+action:open the top drawer
+scene:a cup
+task:open the top drawer
+success:0.9742825627326965
+amb:0.16654086112976074
+rnd_loss_fn:0.01515500620007515
+confidence:0.8617728464305401
+--------------------
+rnd:30
+action:pick-up hamburger to user
+scene:a glass bottle, a spoon, and a hamburger
+task:give me a hamburger.
+success:0.9815588593482971
+amb:0.442314475774765
+rnd_loss_fn:0.6457069516181946
+confidence:0.07535725831985474
+--------------------
+rnd:30
+action:pick-up hamburger to bottom drawer
+scene:a glass bottle, a spoon, and a hamburger
+task:give me a hamburger.
+success:0.9653556942939758
+amb:0.42392903566360474
+rnd_loss_fn:0.5482601188123226
+confidence:0.17155012860894203
+--------------------
+rnd:30
+action:pick-up hamburger to microwave
+scene:a glass bottle, a spoon, and a hamburger
+task:heat the hamburger.
+success:0.9406525492668152
+amb:0.4121154248714447
+rnd_loss_fn:0.3307088278234005
+confidence:0.37734923139214516
+--------------------
+rnd:1
+action:open the top drawer
+scene:a cup
+task:open the top drawer
+success:0.9742825627326965
+amb:0.16654086112976074
+rnd_loss_fn:0.01515500620007515
+confidence:0.8617728464305401
+--------------------
+rnd:30
+action:pick-up hamburger to user
+scene:an orange, an apple, and a hamburger
+task:give me a hamburger.
+success:0.9565111994743347
+amb:0.8485904932022095
+rnd_loss_fn:0.30665433034300804
+confidence:0.16284504905343056
+--------------------
+rnd:30
+action:pick-up hamburger to bottom drawer
+scene:an orange, an apple, and a hamburger
+task:give me a hamburger.
+success:0.9539613127708435
+amb:0.8024739027023315
+rnd_loss_fn:0.1795550063252449
+confidence:0.3150888606905937
+--------------------
+rnd:30
+action:pick-up hamburger to microwave
+scene:an orange, an apple, and a hamburger
+task:heat the hamburger.
+success:0.9310881495475769
+amb:0.755760133266449
+rnd_loss_fn:0.2580886334180832
+confidence:0.25079192221164703

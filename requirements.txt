@@ -1,0 +1,11 @@
+transformers
+torch
+accelerate
+bitsandbytes
+ipywidgets
+matplotlib
+pandas
+scipy
+openai
+sentence_transformers
+openpyxl
