@@ -1,6 +1,6 @@
 # Introspective Planning: Aligning Robots’ Uncertainty with Inherent Task Ambiguity
 
-Official code for the paper [link will be update soon]
+Official code for the paper [[Paper](https://arxiv.org/abs/2510.08044)]
 
 # Preparation Steps
 
