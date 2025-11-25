@@ -1,4 +1,4 @@
-# Introspective Planning: Aligning Robots’ Uncertainty with Inherent Task Ambiguity
+# Towards Reliable LLM-based Robot Planning via Combined Uncertainty Estimation
 
 Official code for the paper [[Paper](https://arxiv.org/abs/2510.08044)]
 
